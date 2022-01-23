@@ -52,9 +52,16 @@ body {
     font-size: 18px;
     margin-bottom: 8px;
     color: rgb(75, 75, 75);
+    line-height: 30px;
 }
 
 #me_info p i {
+    margin-right: 8px;
+    font-size: 18px;
+    color: rgb(75, 75, 75);
+}
+
+#me_info p a{
     margin-right: 8px;
     font-size: 18px;
     color: rgb(75, 75, 75);
